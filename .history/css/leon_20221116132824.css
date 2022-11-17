@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Work Sans',sans-serif;
+}
+/*mobile*/
+@media (max-wigth:767px){
+
+}
+/*small screen*/
+@media (min-width:768px) and (max-width:991px) {
+   
+}
+/*medium*/
+@media (min-width:992px) {
+    
+
+ 
+}
+/*large*/
+@media (min-width:1200px) {
+
+}
+/*custom*/
+@media (max-width:1199){
+
+}
+<

@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Work Sans',sans-serif;
+}
+.container{
+    padding-left:15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*mobile*/
+@media (max-wigth:767px){
+
+}
+/*small screen*/
+@media (min-width:768px) and (max-width:991px) {
+   
+}
+/*medium*/
+@media (min-width:992px) {
+    
+
+ 
+}
+/*large*/
+@media (min-width:1200px) {
+
+}
+/*custom*/
+@media (max-width:1199){
+
+}
+/*start Header*/
+.h

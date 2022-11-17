@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Work Sans',sans-serif;
+}
+.parent{
+   display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:green;
+    width: 1300px;
+    margin:20 auto;
+    flex-wrap: nowrap;
+    padding:40px;
+}
+
+.parent >div {
+background-color: brown;
+text-align: center;
+font-size: 20px;
+width:290px;
+}
+/*mobile*/
+@media (max-wigth:767px){
+
+}
+/*small screen*/
+@media (min-width:768px) and (max-width:991px) {
+   
+}
+/*medium*/
+@media (min-width:992px) {
+    
+
+ 
+}
+/*large*/
+@media (min-width:1200px) {
+
+}
+/*custom*/
+@media ()

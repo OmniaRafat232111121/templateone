@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Work Sans',sans-serif;
+}
+.parent{
+    background-color: green;
+}

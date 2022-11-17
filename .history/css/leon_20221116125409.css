@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Work Sans',sans-serif;
+}
+.parent{
+   display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:green;
+    width: 1200px;
+    margin:20 auto;
+    flex-wrap:wrap;
+}
+
+.parent >div {
+background-color: brown;
+text-align: center;
+font-size: 20px;
+width:290px;
+}
+@media (min-width:768px) {
+    .parent>div
+
+
+  
+}
+@media (min-width:992px) {
+ 
+}
+@media (min-width:1200px) {
+
+}
